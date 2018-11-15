@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Strings related to searching transactions -->
+    <string name="hint_transaction_keyword">Keyword</string>
+    <string name="hint_transaction_category">Category</string>
+    <string name="action_search_transaction">Search</string>
+    <string name="hint_transaction_date">Date</string>
+
+
+</resources>

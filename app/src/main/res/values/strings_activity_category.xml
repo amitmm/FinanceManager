@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Strings related to managing categories -->
+    <string name="action_add_category">Add</string>
+    <string name="action_update_category">Update</string>
+    <string name="action_delete_category">Delete</string>
+
+    <!-- Strings related to adding new categories -->
+    <string name="action_save_category">Save</string>
+    <string name="action_cancel_category">Cancel</string>
+    <string name="hint_category_name">Category Name</string>
+    <string name="hint_new_category_name">New Category Name</string>
+
+</resources>

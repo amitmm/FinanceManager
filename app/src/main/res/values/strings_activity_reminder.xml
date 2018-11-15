@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="action_add_reminder">Add</string>
+    <string name="action_update_reminder">Update</string>
+    <string name="action_delete_reminder">Delete</string>
+
+    <!-- Strings related to adding new categories -->
+    <string name="action_save_reminder">Save</string>
+    <string name="action_cancel_reminder">Cancel</string>
+    <string name="hint_reminder_name">Category Name</string>
+    <string name="hint_new_reminder_name">New Category Name</string>
+
+</resources>

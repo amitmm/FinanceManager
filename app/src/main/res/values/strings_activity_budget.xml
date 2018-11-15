@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hint_new_budget_amount">New Budget Amount</string>
+
+    <string name="action_update_budget">Update</string>
+    <string name="action_cancel_budget">Cancel</string>
+
+</resources>
